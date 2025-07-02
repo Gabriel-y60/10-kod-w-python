@@ -7,4 +7,4 @@ def second_largest(lst):
 
 #example
 print(second_largest([200,300,400,500,600,700]))
-#output: 
+#output: 600
